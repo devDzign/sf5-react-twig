@@ -1,4 +1,3 @@
-    swagger:
 api_platform:
     mapping:
         paths: ['%kernel.project_dir%/src/Entity']
